@@ -1,4 +1,4 @@
- https://packaging.python.org/tutorials/packaging-projects/
+https://packaging.python.org/tutorials/packaging-projects/
 https://www.cnblogs.com/no7dw/p/9982174.html
 python setup.py build sdist bdist_wheel
 python -m twine upload --repository pypi dist/*
