@@ -7,5 +7,7 @@ ybwNB.egg-info/dependency_links.txt
 ybwNB.egg-info/top_level.txt
 ybw/bin/__init__.py
 ybw/bin/bin.py
+ybw/get/__init__.py
+ybw/get/get.py
 ybw/s/__init__.py
 ybw/s/s.py
