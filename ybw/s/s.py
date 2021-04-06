@@ -1,5 +1,5 @@
 import os
-from cv2 import cv2
+# from cv2 import cv2
 
 
 def mkdir(name):
@@ -16,9 +16,9 @@ def mkdirs(name):
         os.makedirs(name)
 
 
-def im_show(img, name='temp'):
-    cv2.imshow(name, img)
-    cv2.waitKey(0)
+# def im_show(img, name='temp'):
+    # cv2.imshow(name, img)
+    # cv2.waitKey(0)
 
 
 j = os.path.join
